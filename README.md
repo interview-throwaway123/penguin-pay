@@ -1,5 +1,8 @@
 # Penguin Pay 🐧
 
+|<img width="361" height="742" alt="image" src="https://github.com/user-attachments/assets/30573991-1e44-4c90-8fc8-3baaccfac74b" />|<img width="348" height="727" alt="image" src="https://github.com/user-attachments/assets/502a002e-6f4b-4e37-8e3d-68e996a20255" />|
+|---|---|
+
 ## Main files
  - [Penguin Pay (main screen)](https://github.com/interview-throwaway123/penguin-pay/blob/main/app/(tabs)/index.tsx)
  - [Form Components](https://github.com/interview-throwaway123/penguin-pay/tree/main/components/formik)
