@@ -1,6 +1,11 @@
 # Penguin Pay 🐧
 
-## Time Savers
+## Main files
+ - [Penguin Pay (main screen)](https://github.com/interview-throwaway123/penguin-pay/blob/main/app/(tabs)/index.tsx)
+ - [Form Components](https://github.com/interview-throwaway123/penguin-pay/tree/main/components/formik)
+ - [API/Data Fetching](https://github.com/interview-throwaway123/penguin-pay/blob/main/api/useQueryGetRates.ts) (with a free secret)
+
+## Time savers
 
 - Storing exchange rate APP_ID in code & hitting the API from the frontend
 - Using native IEEE 754 floating point for currency conversion arithmetic and `.toFixed(2)` instead of a fixed point library like Decimal.js
