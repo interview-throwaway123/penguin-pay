@@ -17,6 +17,8 @@
 - No input mask on Phone Number
 - The 'onBlur' prop of CurrencyConversionInput has weird usability if value is 0.00
 
+- Missed AC: Allow the user to enter an amount they wish to send in USD dollars - no decimal places, decimals are supported
+
 Note: this is an [Expo](https://expo.dev) project created with [create-expo-app](https://www.npmjs.com/package/create-expo-app)
 
 ## Get started
